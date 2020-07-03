@@ -6,8 +6,8 @@ const bodyParser = require('body-parser')
 
 paypal.configure({
     'mode': 'sandbox', //sandbox or live
-    'client_id': 'AZxNfOJddz0YpTq1W9bpkh_lIceSaDIEa5ITpQt2hvZ0jwlx8I0-ULm_7Bw1-x36XUNO-MNKzHdf11dW',
-    'client_secret': 'EEiBHhcgcMdLe5JWFzXaoP5nzQ-jJGk_8QEkR2uenwDZ4OJZcXoM93zZEHvsleI_3JLL9TOGHn8PAdJb'
+    'client_id': '',
+    'client_secret': ''
   });
 
 //middlwear that helps process requests easily
